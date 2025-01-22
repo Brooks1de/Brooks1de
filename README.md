@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brooks1de
 - 👀 I’m interested in optical fibre & image processing & machine learning
 - 🌱 I’m currently learning opencv and CNN rcnn model 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to apply for a position in my field 
 - 📫 How to reach me 
 - 😄 Pronouns: glhf
 - ⚡ Fun fact: be a good man
